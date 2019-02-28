@@ -1,0 +1,51 @@
+body{
+align:center;
+margin-right: 10%;
+margin-left: 10%;
+border: 10px thick solid white;
+background-color: white;
+}
+
+.first
+{
+text-align:right;
+background-color: #A8F0F0
+padding: 5px;
+}
+.second
+{
+font-size: 14pt;
+}
+.bigmomma:
+{
+}
+.friend{
+float:right;
+width: 20%;
+background-color: #E8FBFB;
+padding: 5px;
+margin-top: 10px;
+border: 4px thick solid blue;
+overflow:hidden;
+}
+.third{
+float:right;
+width: 60%;
+background-color: #E8FBFB;
+padding: 5px;
+margin-top: 10px;
+border: 4px thick solid blue;
+overflow:hidden;
+}
+.fifth{
+border-bottom-color: lightblue;
+border-bottom-style: dashed;
+bordor-bottom-width: 2px ;
+border-bottom-thickness: thick;
+margin: .5px;
+}
+img{
+float: right;
+width: 130px;
+}
+
